@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beautiful Quotes</title>
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="icon" type="image/x-icon" href="guillemets.png"/>
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Beautiful Quotes</h1>
+        <select id="quoteType">
+            <option value="success">Success</option>
+            <option value="motivation">Motivation</option>
+            <option value="perseverance">Perseverance</option>
+            <option value="positivity">Positivity</option>
+        </select>
+        <button onclick="fetchQuote()">Get Quote</button>
+        <div class="quote" id="quoteContainer"></div>
+    </div>
+</body>
+</html>
