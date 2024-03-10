@@ -1,0 +1,1 @@
+# Whispers of Wisdom: Inspiring Quotes for the Soul
