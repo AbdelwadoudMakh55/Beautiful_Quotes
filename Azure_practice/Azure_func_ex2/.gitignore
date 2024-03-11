@@ -46,7 +46,3 @@ __pycache__/
 __blobstorage__
 __queuestorage__
 __azurite_db*__.json
-
-image_download.py
-
-.vscode
