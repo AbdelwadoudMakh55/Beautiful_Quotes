@@ -7,6 +7,10 @@ Beautiful Quotes is a simple web application designed to provide users with rand
 Random quote generation  
 Display of quotes with corresponding images  
 Simple and intuitive user interface  
+
+## Architecture:
+![Architecture_Beautiful_Quotes](https://github.com/AbdelwadoudMakh55/Beautiful_Quotes/assets/133237331/270bffd4-183e-4eed-b4e9-4b4957bbd18f)
+
 ## Technologies Used:
 ### Backend:
 
