@@ -13,6 +13,6 @@ Simple and intuitive user interface
 Azure Functions
 ### Frontend:
 
-HTML
-CSS
-JavaScript
+HTML  
+CSS  
+JavaScript  
