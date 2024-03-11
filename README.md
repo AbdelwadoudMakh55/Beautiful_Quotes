@@ -4,9 +4,9 @@
 The Quote Generator is a simple web application designed to provide users with random quotes along with images of the individuals who said them. This project utilizes Azure Functions for the backend API to fetch random quotes and associated images. The frontend is built using HTML, CSS, and JavaScript to create an engaging user experience.
 
 ## Features:
-Random quote generation
-Display of quotes with corresponding images
-Simple and intuitive user interface
+Random quote generation  
+Display of quotes with corresponding images  
+Simple and intuitive user interface  
 ## Technologies Used:
 ### Backend:
 
