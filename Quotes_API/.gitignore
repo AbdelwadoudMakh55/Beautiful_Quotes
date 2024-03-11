@@ -49,4 +49,8 @@ __azurite_db*__.json
 
 image_download.py
 
-.vscode
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+
