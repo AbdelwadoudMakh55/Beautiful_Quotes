@@ -31,6 +31,7 @@ def beautiful_quotes(req: func.HttpRequest) -> func.HttpResponse:
         while quote[len(quote) - 1 - i] != "-":
             person += quote[len(quote) - 1 - i]
             i += 1
+        logging.info(quote)
         person = person[-2::-1]
         base64_image = get_image(person)
         response_json = {"quote": f"Here is your quote: {quote}", "image": base64_image}
