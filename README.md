@@ -28,15 +28,8 @@ JavaScript
 #### To Install the Azure Functions Core Tools: [AzureFunctionsCoreTools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=windows%2Cisolated-process%2Cnode-v4%2Cpython-v2%2Chttp-trigger%2Ccontainer-apps&pivots=programming-language-python#install-the-azure-functions-core-tools)
 #### Navigate to the Quotes_API directory and run:
 `pip install -r requirement.txt` to install the necessary requirements
-#### Add the local.settings.json file:
-{
-  "IsEncrypted": false,
-  "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "python",
-    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
-    "AzureWebJobsStorage": "<connection_string>"
-  }
-}
+#### Navigate to the local.settings.json file and add your container connection string:
+`"AzureWebJobsStorage": "<connection_string>"`
 #### Start the function locally:
 `func start`
 > [!NOTE]
