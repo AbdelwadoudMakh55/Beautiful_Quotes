@@ -21,5 +21,8 @@ HTML
 CSS  
 JavaScript 
 
+## Usage:
+
+`git clone https://github.com/AbdelwadoudMakh55/Beautiful_Quotes`  
 ## Contributors
 Abdelwadoud Makhlok ([@AbdelwadoudMakh55](https://github.com/AbdelwadoudMakh55))
