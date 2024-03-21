@@ -37,5 +37,9 @@ JavaScript
 
 1. First Create a Microsoft Azure account.  
 2. See here how to create your Blob Storage: https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal  
+
 ## Contributors
 Abdelwadoud Makhlok ([@AbdelwadoudMakh55](https://github.com/AbdelwadoudMakh55))
+
+## License
+This project is available for anyone to use.
