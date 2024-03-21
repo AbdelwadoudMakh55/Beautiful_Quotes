@@ -27,5 +27,14 @@ JavaScript
 `git clone https://github.com/AbdelwadoudMakh55/Beautiful_Quotes` 
 #### To Install the Azure Functions Core Tools:
 [AzureFunctionsCoreTools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=windows%2Cisolated-process%2Cnode-v4%2Cpython-v2%2Chttp-trigger%2Ccontainer-apps&pivots=programming-language-python#install-the-azure-functions-core-tools)
+#### Navigate to the Quotes_API directory and run:
+`pip install -r requirement.txt` to install the necessary requirements
+#### Start the function locally:
+`func start`
+> [!NOTE]
+> In order for your azure function to return a response you need to have a blob storage running
+
+1. First Create a Microsoft Azure account.  
+2. See here how to create your Blob Storage: https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal  
 ## Contributors
 Abdelwadoud Makhlok ([@AbdelwadoudMakh55](https://github.com/AbdelwadoudMakh55))
