@@ -24,6 +24,8 @@ JavaScript
 
 ## Usage:
 
-`git clone https://github.com/AbdelwadoudMakh55/Beautiful_Quotes`  
+`git clone https://github.com/AbdelwadoudMakh55/Beautiful_Quotes` 
+#### To use the Azure Function API, check the documentation:
+(https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local)  
 ## Contributors
 Abdelwadoud Makhlok ([@AbdelwadoudMakh55](https://github.com/AbdelwadoudMakh55))
