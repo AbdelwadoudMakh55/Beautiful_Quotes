@@ -9,7 +9,8 @@ Display of quotes with corresponding images
 Simple and intuitive user interface  
 
 ## Architecture:
-![Architecture_Beautiful_Quotes](https://github.com/AbdelwadoudMakh55/Beautiful_Quotes/assets/133237331/270bffd4-183e-4eed-b4e9-4b4957bbd18f)
+![Beautiful_Quotes_Architecture_v2](https://github.com/AbdelwadoudMakh55/Beautiful_Quotes/assets/133237331/adb6dec0-8fe6-4904-bccb-62714161a484)
+
 
 ## Technologies Used:
 ### Backend:
