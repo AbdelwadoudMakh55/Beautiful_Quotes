@@ -25,7 +25,7 @@ JavaScript
 ## Usage:
 
 `git clone https://github.com/AbdelwadoudMakh55/Beautiful_Quotes` 
-#### To use the Azure Function API, check the documentation:
-(https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local)  
+#### To Install the Azure Functions Core Tools:
+[@AzureFunctionsCoreTools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=windows%2Cisolated-process%2Cnode-v4%2Cpython-v2%2Chttp-trigger%2Ccontainer-apps&pivots=programming-language-python#install-the-azure-functions-core-tools)
 ## Contributors
 Abdelwadoud Makhlok ([@AbdelwadoudMakh55](https://github.com/AbdelwadoudMakh55))
